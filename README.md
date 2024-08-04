@@ -25,6 +25,11 @@ npm install
 create .env file in root project
 
 ```bash
+touch .env
+```
+
+add this to your .env file
+```bash
 PRIVATE_KEY="your private key"
 ```
 
