@@ -2,6 +2,12 @@
 
 Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
+Swisstronik Testnet Address
+
+```
+0xE9b0493B3A058E467FFAA1c57b7b5DFD80d40C0d
+```
+
 ## Steps
 
 ### 1. Clone Repository
