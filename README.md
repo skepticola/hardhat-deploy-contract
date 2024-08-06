@@ -1,4 +1,4 @@
-# Swisstronik Testnet 2.0 (Hardhat Deploy).
+# Swisstronik Testnet 2.0 - Hardhat Deploy.
 
 Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -7,7 +7,7 @@ Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sijagoan/hardhat-deploy-contract.git
+git clone https://github.com/skepticola/hardhat-deploy-contract.git
 ```
 
 ```
@@ -99,5 +99,3 @@ npm run set-message
 ```
 
 ### Finished.
-
-Address Testnet 0xE07E1B83d974E90EE489D2aFa227B676D2a43B3F
